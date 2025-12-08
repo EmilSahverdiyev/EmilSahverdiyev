@@ -1,5 +1,4 @@
-
-# Hi there, I'm Emil Shahverdiyev 
+# Hi there, I'm Emil Shahverdiyev
 
 ## About Me
 I am a developer focused on building efficient, clean, and scalable solutions. I enjoy working across different technologies, exploring modern development practices, and continuously improving my skill set. My approach emphasizes clarity, maintainability, and thoughtful architecture.
@@ -12,15 +11,18 @@ I am a developer focused on building efficient, clean, and scalable solutions. I
 - Performance optimization
 - Clean code and best practices
 
-## Technologies I Work With
-## Programming:
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Sql"/>
-  ## Frameworks & Tools:
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-## Databases:
-  <img src="https://img.shields.io/badge/MongoDB-2496ED?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+## Technologies
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Learning & Growth
 I actively explore new tools, design patterns, and technologies to stay current with modern software development. I value continuous improvement and thoughtful engineering.
@@ -36,11 +38,10 @@ I actively explore new tools, design patterns, and technologies to stay current 
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmilSahverdiyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmilSahverdiyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="180" />
 </div>
 
 ## Contact
 - Email: EmilShahverdiyev@proton.me
-- LinkedIn: not yet 
-- Website/Portfolio: not yet
-- 
+- LinkedIn: Not yet
+- Website/Portfolio: Not yet
