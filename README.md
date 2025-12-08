@@ -13,14 +13,14 @@ I am a developer focused on building efficient, clean, and scalable solutions. I
 - Clean code and best practices
 
 ## Technologies I Work With
-- Programming:
+## Programming:
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Sql"/>
-- Frameworks & Tools:
+  ## Frameworks & Tools:
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-- Databases:
-  <img src="https://img.shields.io/badge/MongoDB-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="MongoDB"/>
+## Databases:
+  <img src="https://img.shields.io/badge/MongoDB-2496ED?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 ## Learning & Growth
 I actively explore new tools, design patterns, and technologies to stay current with modern software development. I value continuous improvement and thoughtful engineering.
