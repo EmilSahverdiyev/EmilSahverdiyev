@@ -16,8 +16,8 @@ I am a developer focused on building efficient, clean, and scalable solutions. I
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Html](https://img.shields.io/badge/Html-3776AB?style=for-the-badge&logo=html&logoColor=white)
-![Css](https://img.shields.io/badge/Css-3776AB?style=for-the-badge&logo=css&logoColor=white)
+![Html5](https://img.shields.io/badge/Html5-3776AB?style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/Css3-3776AB?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
