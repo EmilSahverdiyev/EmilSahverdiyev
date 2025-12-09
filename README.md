@@ -26,6 +26,9 @@ I am a developer focused on building efficient, clean, and scalable solutions. I
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-Qt-E95420?style=for-the-badge&logo=qt&logoColor=white)
+![Nextcord](https://img.shields.io/badge/Nextcord-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
