@@ -25,6 +25,7 @@ I am a developer focused on building efficient, clean, and scalable solutions. I
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ursina](https://img.shields.io/badge/Ursina-Engine-282C34?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-Qt-E95420?style=for-the-badge&logo=qt&logoColor=white)
 ![Nextcord](https://img.shields.io/badge/Nextcord-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
