@@ -5,6 +5,7 @@ I am a developer focused on building efficient, clean, and scalable solutions. I
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmilSahverdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 ## Technical Interests
 - Backend development
 - System design and architecture
@@ -41,17 +42,15 @@ I actively explore new tools, design patterns, and technologies to stay current 
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EmilSahverdiyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" height="180"/>
+  
   <img src="https://github-profile-trophy.vercel.app/?username=EmilSahverdiyev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
+  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmilSahverdiyev&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmilSahverdiyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="180" />
-</div>
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=EmilSahverdiyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" height="180"/>
+</p>
 
 ## Contact
 - Email: EmilShahverdiyev@proton.me
