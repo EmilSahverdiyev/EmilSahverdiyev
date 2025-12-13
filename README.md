@@ -2,7 +2,9 @@
 
 ## About Me
 I am a developer focused on building efficient, clean, and scalable solutions. I enjoy working across different technologies, exploring modern development practices, and continuously improving my skill set. My approach emphasizes clarity, maintainability, and thoughtful architecture.
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmilSahverdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ## Technical Interests
 - Backend development
 - System design and architecture
